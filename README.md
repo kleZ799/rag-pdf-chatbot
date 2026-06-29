@@ -1,14 +1,14 @@
-# 📄 RAG PDF Chatbot
+#  RAG PDF Chatbot
 
 A simple **Retrieval-Augmented Generation (RAG)** project that allows users to ask questions from PDF documents using **LangChain, FAISS, and OpenAI**.
 
-## 🚀 Features
-- 📚 Load and process PDF documents
-- 🔍 Semantic search using vector embeddings
-- 🤖 AI-powered question answering
-- ⚡ Fast retrieval with FAISS
-- 🧠 Context-aware responses using LLM
-## 🧠 How It Works
+## Features
+-  Load and process PDF documents
+-  Semantic search using vector embeddings
+-  AI-powered question answering
+-  Fast retrieval with FAISS
+   Context-aware responses using LLM
+##  How It Works
 1. Load PDF document
 2. Split text into chunks
 3. Convert chunks into embeddings
